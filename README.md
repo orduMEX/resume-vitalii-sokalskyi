@@ -1,2 +1,2 @@
 # resume-vitalii-sokalskyi
-Marathone Work. First Front-end web development.
+Marathone Work. First Front-end web development project.
